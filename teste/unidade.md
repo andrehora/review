@@ -26,14 +26,14 @@ Por que a "fixture" de um teste é importante para garantir que um teste seja re
 - Porque ela substitui a necessidade de asserts
 - Porque ela define um estado inicial conhecido e controlado x
 
-O método de Setup (@Before) é executado quantas vezes durante a execução de uma classe de teste:
+O método de Setup é executado quantas vezes durante a execução de uma classe de teste:
 
 - Uma única vez, antes de todos os testes da classe
 - Apenas quando o primeiro teste falha
 - Uma vez antes de cada método de teste da classe x
 - Uma vez ao final da execução de todos os testes
 
-Quando é mais apropriado usar @BeforeAll em vez de @Before (setUp):
+Quando é mais apropriado usar @BeforeAll em vez de @Before:
 
 - Quando se deseja recriar o estado do zero antes de cada teste individual
 - Quando a inicialização é custosa (eg, conexão com recursos) e pode ser compartilhada entre todos os testes da classe x
