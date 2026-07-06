@@ -16,10 +16,10 @@ Segundo Michael Feathers, no livro "Working Effectively with Legacy Code", como 
 
 Quais os três benefícios dos frameworks de teste:
 
-- Escrita de testes, execução de testes e geração de relatórios x
 - Compilação de código, versionamento e deploy
 - Documentação, refatoração e revisão de código
 - Criação de banco de dados, autenticação e logging
+- Escrita de testes, execução de testes e geração de relatórios x
 - Design de interface, testes manuais e monitoramento
 
 De acordo com a diretriz apresentada pela Google, qual é a proporção recomendada entre os tipos de teste:
