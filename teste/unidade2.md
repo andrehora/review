@@ -30,7 +30,7 @@ Qual é a principal recomendação da prática de testar através de APIs públi
 
 - Testar diretamente métodos privados para aumentar a cobertura.
 - Alterar a visibilidade dos métodos internos para facilitar os testes.
-- Escrever testes utilizando o sistema da mesma forma que seus usuários, por meio das APIs públicas. x
+- Escrever testes utilizando o sistema da mesma forma que seus "usuários". x
 - Criar um teste para cada método implementado.
 
 Qual é a principal vantagem de utilizar APIs públicas nos testes:
