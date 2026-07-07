@@ -36,8 +36,8 @@ De acordo com a diretriz apresentada pela Google, qual é a proporção recomend
 
 - 50% testes de unidade, 30% testes de integração, 20% testes e2e
 - 80% testes de unidade, 15% testes de integração, 5% testes end-to-end x
-- 100% testes de unidade, sem necessidade de testes de integração ou e2e
 - 33% testes de unidade, 33% testes de integração, 33% testes e2e
+- 100% testes de unidade, sem necessidade de testes de integração ou e2e
 
 Qual das alternativas abaixo NÃO é uma característica típica dos testes de unidade:
 
@@ -60,8 +60,8 @@ Por que os testes e2e são considerados mais frágeis do que os testes de unidad
 - Porque podem ser mais facilmente impactados por alterações na interface do usuário (UI) x
 - Porque não podem ser automatizados
 
-Assinale verdadeiro (true) ou falso (false):
+Assinale verdadeiro ou falso:
 - Testes manuais são lentos, caros e suscetíveis a falhas. t
-- A proporção de testes recomendada pela Google é 80%/15%/5%. t
+- A proporção de testes recomendada é 80%/15%/5%. t
 - Testes de integração não podem envolver APIs externas. f
-- Testes e2e são executados com menor frequência que os demais. f
+- Testes e2e são executados com menor frequência que os demais. t
