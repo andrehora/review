@@ -1,8 +1,8 @@
 Quais são as principais desvantagens dos testes manuais:
 
-- São lentos, caros e suscetíveis a falhas x
-- São muito rápidos, mas caros
+- São rápidos, mas caros
 - São baratos, mas difíceis de automatizar
+- São lentos, caros e suscetíveis a falhas x
 
 Segundo Michael Feathers, no livro "Working Effectively with Legacy Code", como é definido o "legacy code":
 
@@ -33,11 +33,12 @@ De acordo com a diretriz apresentada pela Google, qual é a proporção recomend
 - 80% testes de unidade, 15% testes de integração, 5% testes end-to-end x
 - 33% testes de unidade, 33% testes de integração, 33% testes e2e
 
-Qual das alternativas abaixo NÃO é uma característica típica dos testes de unidade:
+Qual das alternativas abaixo são características típica dos testes de unidade:
 
-- São lentos de executar x
-- Envolvem comunicação direta com banco de dados e APIs externas x
-- São simples de escrever e estáveis
+- São lentos de executar
+- Podem acessar APIs externas
+- São simples de escrever x
+- São estáveis x
 
 O que caracteriza um teste de integração:
 
@@ -52,7 +53,7 @@ Por que os testes e2e são considerados mais frágeis do que os testes de unidad
 - Porque podem ser mais facilmente impactados por alterações UI x
 - Porque não podem ser automatizados
 
-Assinale verdadeiro ou falso:
-- Testes manuais são lentos, caros e suscetíveis a falhas. t
-- Testes de integração podem envolver APIs externas. t
-- Testes e2e não podem ser automatizados. f
+Assinale as alternativas verdadeiras:
+- Testes manuais são lentos, caros e suscetíveis a falhas x
+- Testes de integração podem envolver APIs externas x
+- Testes e2e não podem ser automatizados
