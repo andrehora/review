@@ -33,7 +33,7 @@ De acordo com a diretriz apresentada pela Google, qual é a proporção recomend
 - 80% testes de unidade, 15% testes de integração, 5% testes end-to-end x
 - 33% testes de unidade, 33% testes de integração, 33% testes e2e
 
-Qual das alternativas abaixo são características típica dos testes de unidade:
+Características dos testes de unidade:
 
 - São lentos de executar
 - Podem acessar APIs externas
@@ -46,7 +46,7 @@ O que caracteriza um teste de integração:
 - Verifica a interação entre componentes ou uma funcionalidade completa, separado da UI x
 - Não pode envolver banco de dados ou APIs externas
 
-Por que os testes e2e são considerados mais frágeis do que os testes de unidade e integração:
+Por que os testes e2e são considerados frágeis:
 
 - Porque não utilizam frameworks de teste
 - Porque são executados com menor frequência que os demais
@@ -54,6 +54,7 @@ Por que os testes e2e são considerados mais frágeis do que os testes de unidad
 - Porque não podem ser automatizados
 
 Assinale as alternativas verdadeiras:
-- Testes manuais são lentos, caros e suscetíveis a falhas x
+- Testes manuais são lentos e caros x
+- Testes de unidade são instáveis
 - Testes de integração podem envolver APIs externas x
-- Testes e2e não podem ser automatizados
+- Testes e2e estão na base da pirâmide de testes
