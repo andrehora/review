@@ -6,20 +6,15 @@ Quais são as principais desvantagens dos testes manuais:
 
 Segundo Michael Feathers, no livro "Working Effectively with Legacy Code", como é definido o "legacy code":
 
-- Código legado é código escrito em linguagens antigas como COBOL
+- Código legado é código escrito em linguagens antigas
 - Código legado é código que nunca foi documentado
 - Código legado é simplesmente código sem testes x
 
-Qual é um benefício direto de se ter testes em um projeto de software:
+Qual é um benefício direto dos testes:
 
 - Eliminar a necessidade de revisão de código
 - Detectar problemas no código mais cedo, antes que cheguem à produção x
 - Tornar o sistema mais rápido em produção
-
-Testes permitem:
-- Criar código sem bugs
-- Detectar de erros mais cedo no ciclo de desenvolvimento x
-- Dar suporte à capacidade de mudança x
 
 Quais os três benefícios dos frameworks de teste:
 
@@ -46,12 +41,19 @@ O que caracteriza um teste de integração:
 - Verifica a interação entre componentes ou uma funcionalidade completa, separado da UI x
 - Não pode envolver banco de dados ou APIs externas
 
+Características dos testes de e2e:
+
+- Lentos x
+- Pequenos
+- Realistas x
+- Frágeis x
+
 Por que os testes e2e são considerados frágeis:
 
-- Porque não utilizam frameworks de teste
-- Porque são executados com menor frequência que os demais
-- Porque podem ser mais facilmente impactados por alterações UI x
-- Porque não podem ser automatizados
+- Pois não utilizam frameworks de teste
+- Pois são executados com menor frequência que os demais
+- Pois podem ser mais facilmente impactados por alterações UI x
+- Pois não podem ser automatizados
 
 Assinale as alternativas verdadeiras:
 - Testes manuais são lentos e caros x
