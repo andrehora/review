@@ -4,7 +4,7 @@ O que caracteriza a manutenção de software?:
 - Conjunto de atividades para modificar o software após sua entrega ao usuário. x
 - Processo de criar novos sistemas a partir do zero.
 
-Qual situação representa uma manutenção manutenção corretiva?:
+Qual situação representa manutenção corretiva?:
 - Refatorar o código para melhorar sua legibilidade.
 - Corrigir um defeito que impede o usuário de realizar login. x
 - Adaptar o sistema para uma nova versão do sistema operacional.
