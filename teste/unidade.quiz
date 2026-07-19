@@ -54,6 +54,6 @@ Qual é a semelhança entre os padrões AAA, Given-When-Then e Four-Phase:
 - Todos são específicos para testes de interface gráfica
 
 Assinale a alternativa correta:
-- Testes de unidade formam o topo da pirâmide de testes.
+- Testes de unidade são rápidos, mas caros.
 - É uma boa prática implementar todos os testes de unidade somente depois que o sistema estiver completamente pronto.
 - Fixture é o estado do sistema necessário para o teste, garantindo que o teste seja repetível. x
