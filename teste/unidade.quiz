@@ -49,8 +49,8 @@ O que significam as letras do padrão AAA em testes de unidade:
 
 Qual é a semelhança entre os padrões AAA, Given-When-Then e Four-Phase:
 
-- Todos servem para organizar um teste em fases lógicas semelhantes x
 - Todos eliminam a necessidade de fixtures
+- Todos servem para organizar um teste em fases lógicas semelhantes x
 - Todos são específicos para testes de interface gráfica
 
 Assinale a alternativa correta:
